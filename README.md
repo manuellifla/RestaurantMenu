@@ -30,11 +30,17 @@ O objetivo é praticar o uso de **Arrays**, os métodos **filter** e **map**, al
 
 ## 📂 Estrutura do Projeto
 ```
-/menu-restaurante
+/restaurantmenu
+│── /images
+│── 1-basic.js
+│── 2-naive.txt
+│── app.js
 │── index.html
-│── style.css
-│── script.js
+│── LICENSE
+│── logo.svg
+│── menu-item.jpeg
 │── README.md
+│── style.css
 ```
 
 ---
