@@ -10,6 +10,8 @@ O objetivo é praticar o uso de **Arrays**, os métodos **filter** e **map**, al
 - Exibir todos os pratos do menu.
 - Filtrar pratos por categoria.
 - Renderizar dinamicamente os pratos selecionados no HTML.
+- Abrir uma **modal de imagem** ao clicar em um item
+- Fechar a modal ao clicar no botão de fechar
 
 ---
 
@@ -30,17 +32,11 @@ O objetivo é praticar o uso de **Arrays**, os métodos **filter** e **map**, al
 
 ## 📂 Estrutura do Projeto
 ```
-/restaurantmenu
-│── /images
-│── 1-basic.js
-│── 2-naive.txt
-│── app.js
+/menu-restaurante
 │── index.html
-│── LICENSE
-│── logo.svg
-│── menu-item.jpeg
-│── README.md
 │── style.css
+│── script.js
+│── README.md
 ```
 
 ---
@@ -55,3 +51,4 @@ O objetivo é praticar o uso de **Arrays**, os métodos **filter** e **map**, al
 ## 📸 Exemplo de Uso
 - Ao abrir a página, o usuário vê todos os pratos do restaurante.
 - Se escolher "Sobremesas", apenas os pratos dessa categoria aparecem.  
+- Ao clicar em uma imagem, um modal se abre, sendo possível observar os paratos com mais detalhes
